@@ -1,6 +1,6 @@
-SC By Zenzz XD dan cuki digital
-Base sc : Merry Base ( tio ) https://github.com/Tiooxy
-jangan di jual om sc gratis 
+SC By zarzelfrrs
+Base sc : Zarz Bot (https://github.com/zarzelfrrs)
+jangan di jual guys sc gratis 
 
 
 <!DOCTYPE html>
@@ -31,8 +31,8 @@ jangan di jual om sc gratis
     </style>
 </head>
 <body>
-    <h1>Halo om✨</h1>
-    <p>Base script Tixo-MD!</p>
-    <p>Created with ❤️ by Tioo.</p>
+    <h1>Halo guys✨</h1>
+    <p>Base script zarzelfrrs</p>
+    <p>Created with ❤️ by Zarz.</p>
 </body>
 </html>
